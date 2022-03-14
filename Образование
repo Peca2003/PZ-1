@@ -7,11 +7,11 @@
     <title>Document</title>
 </head>
 <body bgcolor="#20214F">
-    <h3 align="center"><a href="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Главная.html"><font color="#E0FFFF">Главная</font></a></h3>
-<table align="center" height="750" width="100%" border="1" bgcolor="#191970">
+    <h3 align="center"><a href="C:\Users\Главная.html"><font color="#E0FFFF">Главная</font></a></h3>
+<table align="center" height="850" width="100%" border="1" bgcolor="#7B68EE">
     <caption><h3><font color="#E0FFFF">Образование</font></h3></caption>
     <tr align="center">
-        <td width="30%"><h3><font color="#E0FFFF">Период</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Период обучения</font></h3></td>
         <td width="30%"><h3><font color="#E0FFFF">Учебное заведение</font></h3></td>
         <td width="30%"><h3><font color="#E0FFFF">Уровень образования</font></h3></td>
     </tr>
