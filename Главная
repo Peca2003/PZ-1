@@ -13,13 +13,19 @@
         <td align="right"><h3><a href="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Образование.html"><font color="#E0FFFF">Достижения</font></a></h3></td>
     </tr>
 </table>
-<table align="center" height="850" width="100%" border="0" bgcolor="#191970">
+<table align="center" height="550" width="100%" border="0" bgcolor="#191970">
     <tr>
-        <td width="45%" rowspan="2"><img src="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\10b915d4be880b6ed621f3f0d7744a08f70e28b4r1-500-500v2_hq.jpg" height="400" width="400"></td>
+        <td width="45%" rowspan="2"><img src="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\10b915d4be880b6ed621f3f0d7744a08f70e28b4r1-500-500v2_hq.jpg" align="right" height="300" width="300" ></td>
         <td style="vertical-align: bottom;"><h1 align="left"><font color="#E0FFFF">Костенко Петр Петрович</font></h1></td>
     </tr>
     <tr>
         <td width="65%" style="vertical-align: top;"><h1 align="left"><font color="#E0FFFF">Студент</font></h1></td>
+    </tr>
+</table>
+<table align="center" height="300" width="100%" border="0" bgcolor="#191970">
+    <tr>
+        <td width="45%"><img src="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Без названия (1).jpg" align="right" height="300" width="500"> </td>
+        <td width="65%"><h2 align="left"><font color="#E0FFFF">Я родился в городе Семикаракорск.<p>Этот город расположен в центральной части Ростовской области.</p><p>Он находится на левом берегу реки Дон.</p></font></h2></td>
     </tr>
 </table>
 </body>
