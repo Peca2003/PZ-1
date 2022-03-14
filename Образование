@@ -1,1 +1,35 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="#20214F">
+    <h3 align="center"><a href="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Главная.html"><font color="#E0FFFF">Главная</font></a></h3>
+<table align="center" height="750" width="100%" border="1" bgcolor="#191970">
+    <caption><h3><font color="#E0FFFF">Образование</font></h3></caption>
+    <tr align="center">
+        <td width="30%"><h3><font color="#E0FFFF">Период</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Учебное заведение</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Уровень образования</font></h3></td>
+    </tr>
+    <tr align="center">
+        <td width="30%"><h3><font color="#E0FFFF">с 2010 по 2021</font></h3></td>  
+        <td width="30%"><h3><font color="#E0FFFF">МБОУ "Николаевская" СОШ</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Полное среднее</font></h3></td>
+    </tr>
+    <tr align="center">
+        <td width="30%"><h3><font color="#E0FFFF">С 2021 по настоящее время</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Ростовский-на-Дону колледж связи и информатики</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Среднее специальное</font></h3></td>
+    </tr>
+    <tr align="center">
+        <td width="30%"><h3><font color="#E0FFFF">После окончания РКСИ</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Южный федеральный университет</font></h3></td>
+        <td width="30%"><h3><font color="#E0FFFF">Высшее</font></h3></td>
+    </tr>
+</table>
+</body>
+</html>
