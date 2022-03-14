@@ -7,24 +7,27 @@
     <title>Главная</title>
 </head>
 <body bgcolor="#20214F">
-<table border="0" height="50" width="300" align="center">
-    <tr>
-        <td><h3><a href="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Образование.html"><font color="#E0FFFF">Образование</font></a></h3></td>
-        <td align="right"><h3><a href="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Образование.html"><font color="#E0FFFF">Достижения</font></a></h3></td>
+<table border="0" height="50" width="600" align="center">
+    <tr width="100%">
+        <td width="30%" align="right"><h3><a href="C:\Users\Образование.html"><font color="#E0FFFF">Образование</font></a></h3></td>
+        <td width="30%" align="center"><h3><a href="C:\Users\Достижения.html"><font color="#E0FFFF">Достижения</font></a></h3></td>
+        <td width="30%" align="left"><h3><a href="C:\Users\Увлечения.html"><font color="#E0FFFF">Увлечения</font></a></h3></td>
     </tr>
 </table>
-<table align="center" height="550" width="100%" border="0" bgcolor="#191970">
+<table align="center" height="450" width="100%" border="0" bgcolor="#7B68EE">
     <tr>
-        <td width="45%" rowspan="2"><img src="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\10b915d4be880b6ed621f3f0d7744a08f70e28b4r1-500-500v2_hq.jpg" align="right" height="300" width="300" ></td>
-        <td style="vertical-align: bottom;"><h1 align="left"><font color="#E0FFFF">Костенко Петр Петрович</font></h1></td>
+        <td width="45%" rowspan="2"><img src="https://icdn.lenta.ru/images/2020/12/22/12/20201222124516157/square_1280_ec2cf363a2e512419897fe5aa180a868.jpg" align="right" height="300" width="300" ></td>
+        <div class="sign-wrap-4"><td style="vertical-align: bottom;"><h1 align="left"><font color="#E0FFFF">Костенко Петр Петрович</font></h1></td>
+        
+        </div>
     </tr>
     <tr>
         <td width="65%" style="vertical-align: top;"><h1 align="left"><font color="#E0FFFF">Студент</font></h1></td>
     </tr>
 </table>
-<table align="center" height="300" width="100%" border="0" bgcolor="#191970">
+<table align="center" height="400" width="100%" border="0" bgcolor="#7B68EE">
     <tr>
-        <td width="45%"><img src="C:\Users\Student\Web-технологии\ПЗ№1\ИС-21\Без названия (1).jpg" align="right" height="300" width="500"> </td>
+        <td width="45%"><img src="http://s-library.ru/uploads/posts/2019-06/1561717228_75.jpg" align="right" height="300" width="500"> </td>
         <td width="65%"><h2 align="left"><font color="#E0FFFF">Я родился в городе Семикаракорск.<p>Этот город расположен в центральной части Ростовской области.</p><p>Он находится на левом берегу реки Дон.</p></font></h2></td>
     </tr>
 </table>
